@@ -1,3 +1,4 @@
+*.pkl
 crypto-base.sh
 scrap.jl
 scrap.py
